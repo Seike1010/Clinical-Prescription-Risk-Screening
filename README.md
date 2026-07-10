@@ -6,8 +6,7 @@
 > complete. FYP2 (prototype build and evaluation) begins next semester.
 > See [Roadmap](#-roadmap--timeline) below.
 
-**Author:** Xie Wanen (CST2309176) · Programme: CST
-**Supervisor:** Wong Chim Chwee
+**Author:** Xie Wanen · Programme: CST
 
 ## 📋 Overview
 
