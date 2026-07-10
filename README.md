@@ -193,8 +193,8 @@ in `docs/proposal.pdf`.)*
 
 ## 📄 Documentation
 
-- `docs/proposal.pdf` — full FYP1 proposal
-- `docs/presentation.pdf` — FYP1 presentation slides
+- `docs/Proposal.pdf` — full FYP1 proposal
+- `docs/ProposalPresentation.pdf` — FYP1 presentation slides
 
 ## ⚠️ Disclaimer
 
